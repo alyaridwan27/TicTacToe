@@ -3,7 +3,7 @@
 To compile, in your terminal type:
 ```
 javac TicTacToeGUI.java
-``
+```
 To run the game, type:
 ```
 java TicTacToeGUI
